@@ -1,0 +1,14 @@
+
+$global-font-family: "Lucida Sans Unicode" ;
+
+body {
+    margin:0
+}
+
+html * {
+    font-family: $global-font-family ;
+}
+
+.toolTipClassTest {
+    color:lime !important;
+}
