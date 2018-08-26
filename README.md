@@ -11,3 +11,7 @@ Yes: Run `npm run start` or `ng serve --open --port 80`
 
 ## Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+![](https://github.com/InderPabla/front-end-assessment-tooltip/blob/master/src/assets/vid1.gif)
+
+![](https://github.com/InderPabla/front-end-assessment-tooltip/blob/master/src/assets/vid2.gif)
