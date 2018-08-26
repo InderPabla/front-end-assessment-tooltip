@@ -4,7 +4,9 @@ Run `npm install`
 
 ## Development server
 Do you have Angular CLI Global Installed? 
+
 No: `npm run start-local` or `node_modules/.bin/ng serve --open --port 80`
+
 Yes: `npm run start` or `ng serve --open --port 80`
 
 ## Build
